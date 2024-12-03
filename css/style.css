@@ -728,3 +728,9 @@ header h2 {
     background-color: #26d48c;
     color: #fff;
 }
+
+@media (max-width: 772px) {
+    #contact-block .h5 {
+        font-size: 15px !important;
+    }
+}
